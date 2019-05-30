@@ -1,0 +1,14 @@
+C:\Users\Администратор\Downloads\lab2\obj\Debug\netcoreapp2.2\lab2.csprojAssemblyReference.cache
+C:\Users\Администратор\Downloads\lab2\obj\Debug\netcoreapp2.2\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Downloads\lab2\obj\Debug\netcoreapp2.2\lab2.RazorAssemblyInfo.cache
+C:\Users\Администратор\Downloads\lab2\obj\Debug\netcoreapp2.2\lab2.RazorAssemblyInfo.cs
+C:\Users\Администратор\Downloads\lab2\obj\Debug\netcoreapp2.2\lab2.AssemblyInfoInputs.cache
+C:\Users\Администратор\Downloads\lab2\obj\Debug\netcoreapp2.2\lab2.AssemblyInfo.cs
+C:\Users\Администратор\Downloads\lab2\bin\Debug\netcoreapp2.2\lab2.deps.json
+C:\Users\Администратор\Downloads\lab2\bin\Debug\netcoreapp2.2\lab2.runtimeconfig.json
+C:\Users\Администратор\Downloads\lab2\bin\Debug\netcoreapp2.2\lab2.runtimeconfig.dev.json
+C:\Users\Администратор\Downloads\lab2\bin\Debug\netcoreapp2.2\lab2.dll
+C:\Users\Администратор\Downloads\lab2\bin\Debug\netcoreapp2.2\lab2.pdb
+C:\Users\Администратор\Downloads\lab2\obj\Debug\netcoreapp2.2\lab2.RazorTargetAssemblyInfo.cache
+C:\Users\Администратор\Downloads\lab2\obj\Debug\netcoreapp2.2\lab2.dll
+C:\Users\Администратор\Downloads\lab2\obj\Debug\netcoreapp2.2\lab2.pdb
